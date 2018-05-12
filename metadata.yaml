@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35081
     wikipedia: http://en.wikipedia.org/wiki/Marie_von_Ebner-Eschenbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31233#Rittmeister-Brand--Bertram-VogelweidZwei-Erz-hlungen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-02-08'
 gutenberg_type: Text
